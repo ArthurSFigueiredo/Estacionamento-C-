@@ -19,4 +19,4 @@ Este projeto foi desenvolvido em C#. Para executar, você precisará de um ambie
 ### Executando o projeto
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone https://github.com/ArthurSFigueiredo/Estacionamento-C-.git
