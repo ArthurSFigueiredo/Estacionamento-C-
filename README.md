@@ -8,6 +8,7 @@ Este é um sistema de estacionamento simples desenvolvido em C# e que permite o 
 
 ## Diagrama
 O projeto conta também com um diagrama de classe, exemplificando os métodos que foram criados e algumas variáveis utilizadas na classe Estacionamento.
+
 ![Diagrama de Classe](ddg.png)
 
 ## Configuração
