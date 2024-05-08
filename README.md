@@ -7,7 +7,8 @@ Este é um sistema de estacionamento simples desenvolvido em C# e que permite o 
 - **Listar Veículos:** Mostra uma lista de todos os veículos atualmente estacionados.
 
 ## Diagrama
-O projeto conta também com um diagrama de classe, exemplificando os métodos que foram criados e algumas variáveis utilizadas na classe Estacionamento. 
+O projeto conta também com um diagrama de classe, exemplificando os métodos que foram criados e algumas variáveis utilizadas na classe Estacionamento.
+<img diagrama_classe_estacionamento.png>
 
 ## Configuração
 Este projeto foi desenvolvido em C#. Para executar, você precisará de um ambiente capaz de compilar e executar aplicações C#. O Visual Studio e Visual Studio Code é recomendado para isso.
